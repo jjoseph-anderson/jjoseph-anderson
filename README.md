@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-name: Labels
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.topics.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_topics: yes
-  plugin_topics_limit: 12
+![Metrics](https://raw.githubusercontent.com/jjoseph-anderson/jjoseph-anderson/main/github-metrics.svg)
 
 My name is Joseph Anderson. 
