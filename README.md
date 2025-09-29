@@ -1,4 +1,4 @@
-## Hi, I'm Joseph Anderson
+### Hi, I'm Joseph Anderson
 
 My name is Joseph Anderson and I am currently working as a Quantitative Risk Analyst at Grant Thornton. I graduated in 2024 with a BSc in Theoretical Physics from UCD. I have a passion for applied mathematics and computational modelling. This page features a range of projects from my final year thesis to personal machine learning projects. 
 
