@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<h1 align="center">Hi, I'm Joseph Anderson</h1>
-<h3 align="center">Quantitative Risk Analyst</h3>
+## Hi, I'm Joseph Anderson
+### Quantitative Risk Analyst
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjoseph-anderson" alt="jjoseph-anderson" /></a> </p>
 
