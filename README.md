@@ -18,4 +18,4 @@ My name is Joseph Anderson and I am currently working as a Quantitative Risk Ana
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjoseph-anderson&show_icons=true&locale=en&layout=compact" alt="jjoseph-anderson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjoseph-anderson&show_icons=true&locale=en" alt="jjoseph-anderson" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjoseph-anderson&show_icons=true&locale=en" alt="jjoseph-anderson" /></p> -->
