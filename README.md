@@ -2,6 +2,8 @@
 
 My name is Joseph Anderson and I am currently working as a Quantitative Risk Analyst at Grant Thornton. I graduated in 2024 with a BSc in Theoretical Physics from UCD. I have a passion for applied mathematics and computational modelling. This page features a range of projects from my final year thesis to personal machine learning projects. 
 
+For more information please visit my [website](https://jjoseph-anderson.github.io/).
+
 ## Projects 
 * Remote Sensing Algorithms for Ocean Currents - [Ocean_Currents](https://github.com/jjoseph-anderson/Thesis-Report/blob/main/Final%20Year%20Thesis%20-%20Joseph%20Anderson.pdf)
 * Droplet Impact Modelling using High Performance Computing - [Droplet_Modelling](https://github.com/jjoseph-anderson/Droplet-Impacts-JA-Personal)
