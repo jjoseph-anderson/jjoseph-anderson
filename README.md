@@ -4,12 +4,6 @@ My name is Joseph Anderson and I am currently working as a Quantitative Risk Ana
 
 For more information please visit my [website](https://jjoseph-anderson.github.io/).
 
-## Projects 
-* Remote Sensing Algorithms for Ocean Currents - [Ocean_Currents](https://github.com/jjoseph-anderson/Thesis-Report/blob/main/Final%20Year%20Thesis%20-%20Joseph%20Anderson.pdf)
-* Droplet Impact Modelling using High Performance Computing - [Droplet_Modelling](https://github.com/jjoseph-anderson/Droplet-Impacts-JA-Personal)
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjoseph-anderson" alt="jjoseph-anderson" /></a> </p> -->
-
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/josephanderson-ucd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephanderson-ucd" height="30" width="40" /></a>
